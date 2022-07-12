@@ -1,0 +1,1 @@
+alert('File main correttamente creato e collegato');
